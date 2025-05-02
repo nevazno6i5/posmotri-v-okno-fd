@@ -289,9 +289,10 @@ input[type="checkbox"]:checked + .search-form__pseudo-checkbox::after {
 .more-button:hover {
     cursor: pointer;
 }
-.result__video-container {
-    position: relative;
-}
 .content__list-container {
     position: relative;
 }
+.result__video-container {
+    position: relative;
+}
+
