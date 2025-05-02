@@ -1,7 +1,7 @@
 /* КОНФИГ */
 const preloaderWaitindTime = 1200;
 const cardsOnPage = 5;
-const BASE_URL = 'https://kiwi-fast-curve.glitch.me';
+const BASE_URL = 'v-content.practicum-team.ru';
 const endpoint = `${BASE_URL}/api/videos?pagination[pageSize]=${cardsOnPage}&`;
 
 /* ЭЛЕМЕНТЫ СТРАНИЦЫ */
